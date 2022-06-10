@@ -4,7 +4,7 @@
 // Firmware version definition
 #define FIRMWARE_VERSION_MAJOR 1
 #define FIRMWARE_VERSION_MINOR 3
-#define FIRMWARE_VERSION_PATCH 3
+#define FIRMWARE_VERSION_PATCH 4
 #define FIRMWARE_VERSION_EXTS "beta"
 
 /* Version Notes
